@@ -1,0 +1,10 @@
+.contact{
+    height: 545px;
+    padding-left: 500px;
+    padding-top: 170px;
+    background-image: url(../../assets/images/bg4.jpg);
+    background-size: cover;
+}
+h4{
+    text-align: center;
+}
